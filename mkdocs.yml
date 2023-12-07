@@ -1,0 +1,6 @@
+site_name: Knowledge Base
+
+nav:
+  - Home: index.md
+  - Start: start.md
+
